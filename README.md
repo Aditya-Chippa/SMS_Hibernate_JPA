@@ -66,8 +66,6 @@ The **Student Management System** is a console-based Java application built usin
 
 3.Omkar Borgaonkar
 
-4.Aniket Sutar
-
 ---
 
 ## 📬 Contact
