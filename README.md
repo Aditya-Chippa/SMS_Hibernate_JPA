@@ -35,10 +35,12 @@ The **Student Management System** is a console-based Java application built usin
 ## 📦 Package Structure
 com.student
 ├── app
+
 │ ├── MainApp.java 
 │ └── JPAUtil.java
 │
 └── dao
+
   ├── Student.java
   └── StudentService.java
 
