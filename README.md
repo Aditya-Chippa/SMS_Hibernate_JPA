@@ -35,12 +35,12 @@ The **Student Management System** is a console-based Java application built usin
 ## 📦 Package Structure
 com.student
 ├── app
-│   ├── MainApp.java         
-│   └── JPAUtil.java         
+│ ├── MainApp.java    // Main menu-driven application
+│ └── JPAUtil.java    // Utility class for EntityManager
 │
 └── dao
-    ├── Student.java         
-    └── StudentService.java  
+  ├── Student.java    // JPA entity class
+  └── StudentService.java // Service class for CRUD operations
 
 ---
 
