@@ -39,9 +39,6 @@ The **Student Management System** is a console-based Java application built usin
 🧩 Maven Dependencies
 Include the following in your pom.xml for Hibernate, JPA, and PostgreSQL:
 
-xml
-Copy
-Edit
 <dependencies>
     <dependency>
         <groupId>org.hibernate.orm</groupId>
