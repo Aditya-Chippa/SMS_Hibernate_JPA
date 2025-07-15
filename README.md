@@ -32,20 +32,7 @@ The **Student Management System** is a console-based Java application built usin
 
 ---
 
-## 📦 Package Structure
-
-├── app
-│   ├── MainApp.java        
-│   └── JPAUtil.java         
-│
-└── dao
-    ├── Student.java         
-    └── StudentService.java  
-
----
-
 ## 🧩 Maven Dependencies
-
 <dependencies>
     <dependency>
         <groupId>org.hibernate.orm</groupId>
