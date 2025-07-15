@@ -34,6 +34,7 @@ The **Student Management System** is a console-based Java application built usin
 
 ## 📦 Package Structure
 com.student
+
 ├── app
 │ ├── MainApp.java    // Main menu-driven application
 │ └── JPAUtil.java    // Utility class for EntityManager
