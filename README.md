@@ -38,8 +38,8 @@ The **Student Management System** is a console-based Java application built usin
 ---
 ## 🧩 Maven Dependencies
 
-'''text
 <dependencies>
+    
     <dependency>
         <groupId>org.hibernate.orm</groupId>
         <artifactId>hibernate-core</artifactId>
