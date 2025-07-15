@@ -30,19 +30,25 @@ The **Student Management System** is a console-based Java application built usin
 - **Maven 4.0.0** – Dependency management and project build system.
 - **Collections (Java Utils)** – Used to store and display multiple student records.
 
----
+## Maven Dependencies
+<dependencies>
+    <dependency>
+        <groupId>org.hibernate.orm</groupId>
+        <artifactId>hibernate-core</artifactId>
+        <version>7.0.5.Final</version>
+    </dependency>
+    <dependency>
+        <groupId>jakarta.persistence</groupId>
+        <artifactId>jakarta.persistence-api</artifactId>
+        <version>3.1.0</version>
+    </dependency>
+    <dependency>
+        <groupId>org.postgresql</groupId>
+        <artifactId>postgresql</artifactId>
+        <version>42.7.2</version>
+    </dependency>
+</dependencies>
 
-## 📦 Package Structure
-com.student
-├── app
-
-│ ├── MainApp.java 
-│ └── JPAUtil.java
-│
-└── dao
-
-  ├── Student.java
-  └── StudentService.java
 
 ---
 
